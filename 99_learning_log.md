@@ -33,15 +33,9 @@ What to notice:
 ```
 我能解释的 3 个概念：
 
-1. ```
- Vaccine 关注的是模型内部 hidden representation 的稳定性。
-```
-2. ```
-clean accuracy 高不代表模型鲁棒，扰动后性能下降才暴露问题。
-```
-3. ```
-Vaccine-style training 会故意制造更难的训练条件，让模型适应扰动
-```
+1. `Vaccine` 关注的是模型内部 `hidden representation` 的稳定性。
+2. `clean accuracy` 高不代表模型鲁棒，扰动后性能下降才暴露问题。
+3. `Vaccine-style training` 会故意制造更难的训练条件，让模型适应扰动
 
 我还不懂的 3 个概念：
 
