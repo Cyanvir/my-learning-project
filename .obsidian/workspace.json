@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_paper_reading_template.md",
+                "file": "10_remote_existing_results_and_next_runs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04_paper_reading_template"
+              "title": "10_remote_existing_results_and_next_runs"
             }
           }
         ]
@@ -185,13 +185,23 @@
   },
   "active": "4208045b5a68c82a",
   "lastOpenFiles": [
-    "03_code_reading_route.md",
-    "00_research_onboarding.md",
-    "99_learning_log.md",
+    "vaccine_pdf_text.txt",
     "glossary.md",
-    "2402.01109v6.pdf",
-    "README.md",
+    "10_remote_existing_results_and_next_runs.md",
+    "09_remote_env_pip_conflict_fix.md",
     "02_prerequisites.md",
-    "01_project_map.md"
+    "05_experiment_plan.md",
+    "08_lmc3090_server_judgement.md",
+    "check_remote_server.sh",
+    "07_remote_server_check.md",
+    "vaccine_results_template.tsv",
+    "06_vaccine_reproduction_task.md",
+    "README.md",
+    "01_project_map.md",
+    "00_research_onboarding.md",
+    "04_paper_reading_template.md",
+    "03_code_reading_route.md",
+    "99_learning_log.md",
+    "2402.01109v6.pdf"
   ]
 }
